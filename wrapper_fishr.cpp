@@ -41,7 +41,7 @@ for(int i=1;i<argc;i++)
 
 if (flag == true)
 {
-	flag = system(("/home/piyush/Documents/IBG-FISHR-GITHUB/Project-FISHR-Low-Ram/FISHR_Low_Ram " +  ss.str()).c_str());
+	flag = system(("/work/KellerLab/opt/bin/fishr_low_ram6.0 " +  ss.str()).c_str());
 }
 else if(flag == false)
 {
