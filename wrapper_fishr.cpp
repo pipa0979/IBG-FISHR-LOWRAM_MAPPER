@@ -45,7 +45,7 @@ if (flag == true)
 }
 else if(flag == false)
 {
-	flag = system(("/home/piyush/Documents/IBG-FISHR-GITHUB/Project-FISHR/FISHR " + ss.str()).c_str());
+	flag = system(("/home/piyush/Documents/IBG-FISHR-GITHUB/Project-FISHR/ErrorFinder25.0 " + ss.str()).c_str());
 }
 
 else
