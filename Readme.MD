@@ -1,0 +1,1 @@
+g++ -O2 -o fishr_wrapper7.0 wrapper_fishr.cpp
