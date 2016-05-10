@@ -4,7 +4,7 @@
 
 3. Then you should proceed to compile the program. 
 
-To Compile:
-	g++ -O2 -o Fishr wrapper_fishr.cpp
+	To Compile:
+		g++ -O2 -o Fishr wrapper_fishr.cpp
 
 4. After following the above steps, Fishr is ready to be worked with.
